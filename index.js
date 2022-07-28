@@ -19,4 +19,4 @@ app.use('/',(req,res,next)=>{
 
 app.use('/hallBooking',hallBookingRouter);
 
-app.listen('3003');
+app.listen('3001');
